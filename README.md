@@ -10,7 +10,7 @@ Tip: Save this as README.md in a repo named exactly: gf-gonzalez
 <p align="center">
   <a href="mailto:gf.gonzalez@uniandes.edu.co">gf.gonzalez@uniandes.edu.co</a> •
   <a href="https://www.linkedin.com/in/gf-gonzalez">LinkedIn</a> •
-  <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=-5kDAz4AAAAJ&hl=es)">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=-5kDAz4AAAAJ&hl=es">Google Scholar</a>
 </p>
 
 ---
