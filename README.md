@@ -3,6 +3,9 @@ Tip: Save this as README.md in a repo named exactly: gf-gonzalez
 -->
 
 <h1 align="center">Hi there, I'm Gabriel González 👋</h1>
+<p align="center">
+  Machine Learning Researcher • M.Sc. Biomedical Engineering @ Universidad de los Andes (CinfonIA) • Generative & Multimodal Deep Learning for Science
+</p>
 
 <p align="center">
   <a href="mailto:gf.gonzalez@uniandes.edu.co">gf.gonzalez@uniandes.edu.co</a> •
@@ -11,10 +14,6 @@ Tip: Save this as README.md in a repo named exactly: gf-gonzalez
 </p>
 
 ---
-
-## 🔬 About me
-
-I’m a **Machine Learning Researcher** and **M.Sc. student in Biomedical Engineering** at the **Center for Research and Formation in Artificial Intelligence (CinfonIA)**, **Universidad de los Andes**, advised by **Prof. Pablo Arbeláez**.
 
 ## 🧩 Research & work
 
