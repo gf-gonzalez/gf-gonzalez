@@ -19,16 +19,14 @@ Tip: Save this as README.md in a repo named exactly: gf-gonzalez
 
 I’m a **Machine Learning Researcher** and **M.Sc. student in Biomedical Engineering** at the **Center for Research and Formation in Artificial Intelligence (CinfonIA)**, **Universidad de los Andes**, advised by **Prof. Pablo Arbeláez**.
 
-My research focuses on **multimodal** and **generative deep learning** for **scientific applications** with current work on **reproducible models and benchmarks** for:
-- 🧪 **Materials science**
-- 💊 **Drug discovery**
-- 🧠 **Neuroimaging / brain decoding (fNIRS)**
+## 🧩 Research & work
 
-## 🧩 What I do
+I work on **multimodal** and **generative deep learning** for **AI-for-science**, building **reproducible benchmarks** and **scalable training pipelines**.
 
-- **Generative AI** for scientific discovery (structures, molecules, proteins, materials)
-- **Multimodal deep learning** (vision + language + brain signals)
-- **Benchmarking & reproducibility** (clean pipelines, standardized evaluation, scalable training)
+- 🧪 Materials science • 💊 Drug discovery • 🧠 Neuroimaging/brain decoding (fNIRS/fMRI)  
+- Generative modeling (structures, molecules, proteins, materials)  
+- Multimodal learning (vision + language + brain signals)  
+- Benchmarking & reproducibility (standardized evaluation, clean pipelines)
 
 If you’re working on **open datasets**, **reproducible ML**, or **AI for science**, I’m happy to collaborate 🤝
 
