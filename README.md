@@ -2,7 +2,7 @@
 Tip: Save this as README.md in a repo named exactly: gf-gonzalez
 -->
 
-<h1 align="center">Hi, I'm Gabriel Francisco González Estrada 👋</h1>
+<h1 align="center">Hi there, I'm Gabriel González 👋</h1>
 <p align="center">
   Machine Learning Researcher • M.Sc. Biomedical Engineering @ Universidad de los Andes (CinfonIA) • Generative & Multimodal Deep Learning for Science
 </p>
@@ -39,14 +39,6 @@ If you’re working on **open datasets**, **reproducible ML**, or **AI for scien
 **ML/DL:** PyTorch • PyTorch Lightning • TensorFlow • Scikit-Learn  
 **Tooling:** Weights & Biases • Hugging Face  
 **Infra:** Git • Linux • HPC (Slurm)
-
-## 🌍 Languages
-
-- Spanish: Native  
-- English: C1 (Professional working proficiency)  
-- French: A1 • German: A1
-
----
 
 ## 📫 Contact
 
