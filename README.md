@@ -26,8 +26,8 @@ My research focuses on **multimodal** and **generative deep learning** for **sci
 
 ## 🧩 What I do
 
-- **Generative AI** for scientific discovery (structures, molecules, materials)
-- **Multimodal deep learning** (signal + imaging + text/metadata)
+- **Generative AI** for scientific discovery (structures, molecules, proteins, materials)
+- **Multimodal deep learning** (vision + language + brain signals)
 - **Benchmarking & reproducibility** (clean pipelines, standardized evaluation, scalable training)
 
 If you’re working on **open datasets**, **reproducible ML**, or **AI for science**, I’m happy to collaborate 🤝
