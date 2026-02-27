@@ -27,12 +27,21 @@ I work on **multimodal** and **generative deep learning** for **AI-for-science**
 
 If you’re working on **open datasets**, **reproducible ML**, or **AI for science**, I’m happy to collaborate 🤝
 
-## 🛠️ Skills & tools
-
-**Languages:** Python • MATLAB • R • Java  
-**ML/DL:** PyTorch • PyTorch Lightning • TensorFlow • Scikit-Learn  
-**Tooling:** Weights & Biases • Hugging Face  
-**Infra:** Git • Linux • HPC (Slurm)
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img alt="PyTorch Lightning" src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=pytorchlightning&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=black" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img alt="Slurm" src="https://img.shields.io/badge/Slurm-2D2D2D?logoColor=white&labelColor=2D2D2D" />
+</p>
 
 <!-- Optional: GitHub widgets (feel free to enable)
 <p align="center">
