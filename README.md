@@ -25,7 +25,7 @@ I work on **multimodal** and **generative deep learning** for **AI-for-science**
 - Multimodal learning (vision + language + brain signals)  
 - Benchmarking & reproducibility (standardized evaluation, clean pipelines)
 
-If you’re working on **open datasets**, **reproducible ML**, or **AI for science**, I’m happy to collaborate 🤝
+If you’re working on **AI for science**, **multimodal VLMs**, or **open datasets**, I’m happy to collaborate 🤝
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
